@@ -6,7 +6,7 @@ this is a simple script that uses the flags
 
 it was made for my use but can be easily tweaked for your own 
 
-it detecs what version of OSX you have and installs the driver accordingly 
+it detects what version of OSX you have and installs the driver accordingly 
 
 NOTE I DONT HAVE THE PPD FILE FOR MOST MACOS VERSIONS YOU CAN FIND IT FOR YOUR MACOS VERSION IN:
 ```/etc/cups/```
